@@ -1,0 +1,14 @@
+
+# Ignore the virtual enviroment
+/venv
+# The file containing environment variables 
+.env
+
+# Ignore Logs
+logs
+*.log
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
